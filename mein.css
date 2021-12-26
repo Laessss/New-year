@@ -1,0 +1,13 @@
+body{background: #f53647;}
+h1{font-style: oblique;
+    font-family: Impact;
+    font-weight: bold;
+    text-indent: 200px;
+    font-size: 80px;
+    color: white;}
+p{font-family: Tahoma;
+    font-weight: bold;
+    color: white;}
+header{width: 1520px;
+    height: 300px;
+background: green;}
